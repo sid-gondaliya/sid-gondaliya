@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 there, I'm Siddharth Gondaliya</h1>
-<h3 align="center"><p align="center">I like to work with flutter😃. I am a passionate flutter developer from India 🇮🇳. Currently i am Studing B.Tech. Information Technology in P P Savani University🏫.</p></h3>
+<h3 align="center"><p align="center">I like to work with flutter. I am a passionate flutter developer from India.
 
 - 📫 How to reach me :  **siddharthgondaliya1@gmail.com**
 - 💬 Connect with me :
